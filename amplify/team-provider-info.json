@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyreactapp-dev-125035-authRole",
+      "UnauthRoleArn": "arn:aws:iam::199918762367:role/amplify-amplifyreactapp-dev-125035-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::199918762367:role/amplify-amplifyreactapp-dev-125035-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyreactapp-dev-125035-deployment",
+      "UnauthRoleName": "amplify-amplifyreactapp-dev-125035-unauthRole",
+      "StackName": "amplify-amplifyreactapp-dev-125035",
+      "StackId": "arn:aws:cloudformation:us-east-1:199918762367:stack/amplify-amplifyreactapp-dev-125035/86174580-e7ab-11ee-b080-12306f74e215",
+      "AmplifyAppId": "d3t25ycnep29rs"
+    },
+    "categories": {
+      "auth": {
+        "amplifyreactappfd9ddc2a": {
+          "userPoolId": "us-east-1_KM9wgHtQb",
+          "userPoolName": "Hv-ragdemo-userpool",
+          "webClientId": "a94dm536p6e3ohogfgi75gqrt",
+          "nativeClientId": "a94dm536p6e3ohogfgi75gqrt"
+        }
+      }
+    }
+  }
+}
